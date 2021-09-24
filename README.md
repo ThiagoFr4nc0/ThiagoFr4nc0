@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Thiago Franco
+## Oiii! Eu sou o Thiago Franco
  <div>
   <a href="https://github.com/ThiagoFr4nc0">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFr4nc0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

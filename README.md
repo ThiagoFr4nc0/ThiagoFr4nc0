@@ -1,7 +1,7 @@
 ## Oiii! Eu sou o Thiago Fraco
  <div>
   <a href="https://github.com/ThiagoFr4nc0">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFr4nc0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFr4nc0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFr4nc0&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>

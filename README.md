@@ -1,9 +1,9 @@
 ## Oiii! Eu sou o Thiago Fraco
  <div>
   <a href="https://github.com/ThiagoFr4nc0">
-   <img width="400em" src="https://streak-stats.demolab.com?user=ThiagoFr4nc0&theme=radical&hide_border=true" />
+   <img width="350em" src="https://streak-stats.demolab.com?user=ThiagoFr4nc0&theme=radical&hide_border=true" />
    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFr4nc0&hide=prs,issues&show_icons=true&theme=radical&rank_icon=github&locale=en&line_height=30&hide_border=true"/>
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFr4nc0&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
+    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFr4nc0&show_icons=true&theme=radical&layout=compact&locale=en&langs_count=10&hide_border=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img src="https://skillicons.dev/icons?i=javascript,css,html,git,react,apple,nodejs,flask,mongodb,postgres" />

@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Thiago Fraco
+## Oi! Eu sou o Thiago Fraco
  <div>
   <a href="https://github.com/ThiagoFr4nc0">
    <img width="350em" src="https://streak-stats.demolab.com?user=ThiagoFr4nc0&theme=radical&hide_border=true" />
